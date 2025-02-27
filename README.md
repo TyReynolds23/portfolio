@@ -1,0 +1,1 @@
+Portfolio made from tutorial on YouTube with changes made to personalize it to me and also add different things I wanted on my portfolio and taking out some things I didn't want.
