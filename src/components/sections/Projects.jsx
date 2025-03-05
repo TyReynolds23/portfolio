@@ -52,7 +52,7 @@ export const Projects = () => {
                                 Website for VFD I am on. Building for fun, also still a work in progress. Check back periodically to see it progressing.
                             </p>
                             <div className="flex flex-wrap gap-2 mb-4">
-                                {['Node.js', 'MongoDB', 'Express'].map((tech, key) => (
+                                {['TailwindCSS', 'React'].map((tech, key) => (
                                     <span key={key} className="bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
                                         {tech}
                                     </span>
